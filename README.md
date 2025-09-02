@@ -1,4 +1,4 @@
 # jhaaparna-demo
 This is my first Git Repository.
 <br>
-Author - Aparna Jha
+Author - Aparna Jha (chhoti) 
